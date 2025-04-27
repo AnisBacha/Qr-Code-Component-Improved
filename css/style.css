@@ -33,12 +33,12 @@ body{
 .main__img{
     border-radius: 10px;
 }
-.main__h2{
+.main__h1{
     padding-inline: 1.25rem;
 
     margin-block: 1.7rem 1.2rem;
 
-    font-size: 1.4375rem;
+    font-size: 1.35rem;
     text-align: center;
     color: hsl(218, 44%, 22%);
     font-weight: 800;
